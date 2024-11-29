@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1a7d963a3845444582ed8d882b13462, type: 3}
+  m_Name: Hunter
+  m_EditorClassIdentifier: 
+  Index: 6
+  DeathSound: {fileID: 8300000, guid: 7a967c43f645e47439fdd7a34ec37ba5, type: 3}
+  MaxHealhData: 14
+  DamageData: 3
+  MovementSpeed: 3
+  AgressionThereshold: 4
+  IsLighted: 0
+  EnemySprite: {fileID: 21300000, guid: 99efbf210e34ff744898ec08a92d601f, type: 3}
+  Stats: {fileID: 7705189319949573812, guid: e62534c2f9656d64a80357b27eb7aefe, type: 3}
+  EnemyData: {fileID: 11400000, guid: 7b393d9efd40f0247b698946a11a4350, type: 2}
+  Trap: {fileID: 2384439926448177609, guid: e483ad01d385ff742aa3eefd79819825, type: 3}

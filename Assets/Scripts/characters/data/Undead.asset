@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0435f2b9834a41a49886bb0728ee607d, type: 3}
+  m_Name: Undead
+  m_EditorClassIdentifier: 
+  Index: 6
+  MaxHealhData: 10
+  DamageData: 7
+  CharacterIcon: {fileID: -3818457467549009898, guid: a005c22e17320cf49a5de95c7f1c6410, type: 3}
+  CharacterDescription: 'Passive ability: upon receiving fatal damage, restores all
+    health and kills the opponent. Cooldown of 80 turns. Instead of restoring health,
+    healing potions explode, dealing damage to enemies.'
+  CharacterName: Undead
+  TurnsToRevial: 0

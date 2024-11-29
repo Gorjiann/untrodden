@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8ee91bb645ad4e923d976b371122b, type: 3}
+  m_Name: Beast
+  m_EditorClassIdentifier: 
+  Index: 4
+  DeathSound: {fileID: 8300000, guid: c5fd8af442bd79541b40974f72803825, type: 3}
+  MaxHealhData: 12
+  DamageData: 1
+  MovementSpeed: 2
+  AgressionThereshold: 12
+  IsLighted: 1
+  EnemySprite: {fileID: 21300000, guid: 56c40b110f39b914f80e87700a688e83, type: 3}

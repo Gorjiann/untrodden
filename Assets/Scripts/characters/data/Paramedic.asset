@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d1de357e094b6646a3c59c332e119d2, type: 3}
+  m_Name: Paramedic
+  m_EditorClassIdentifier: 
+  Index: 1
+  MaxHealhData: 17
+  DamageData: 2
+  CharacterIcon: {fileID: -4820246924992232941, guid: f29d78751a9d6a445ad56734317bb946, type: 3}
+  CharacterDescription: Healing is doubled. Part of the restored health is dealt
+    to the nearest enemy. Opening chests and collecting treasures restores 1 health
+    point.
+  CharacterName: Paramedic

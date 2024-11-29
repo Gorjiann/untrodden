@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4fdc011549c0d4a9d83ee9ef080077, type: 3}
+  m_Name: Psychic
+  m_EditorClassIdentifier: 
+  Index: 3
+  MaxHealhData: 11
+  DamageData: 3
+  CharacterIcon: {fileID: 2902009919490548868, guid: f9898ae04b5a44146b24dd0bb69b5084, type: 3}
+  CharacterDescription: Deals ranged damage. At the start, receives 5 additional
+    Prophecy stones. Using PS has a chance to grant extra gold, and invisibility
+    potions reduce aggressiveness.
+  CharacterName: Psychic

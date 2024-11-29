@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21649aa8c2a7aae48bdb09815e4e8b6b, type: 3}
+  m_Name: Thirst
+  m_EditorClassIdentifier: 
+  Index: 2
+  DeathSound: {fileID: 8300000, guid: 7591e3aaa0118a140a6306ef85a21ec4, type: 3}
+  MaxHealhData: 10
+  DamageData: 0
+  MovementSpeed: 5
+  AgressionThereshold: 14
+  IsLighted: 0
+  EnemySprite: {fileID: 21300000, guid: 8f3939db81c75174b9794adb20f78fbd, type: 3}

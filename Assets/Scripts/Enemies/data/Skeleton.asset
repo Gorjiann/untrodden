@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fda05ed0fd3e63d4b9c71d010d088777, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  Index: 0
+  DeathSound: {fileID: 8300000, guid: 59d6cfd77925d464385ce5fb677aac3b, type: 3}
+  MaxHealhData: 3
+  DamageData: 1
+  MovementSpeed: 1
+  AgressionThereshold: 5
+  IsLighted: 1
+  EnemySprite: {fileID: 21300000, guid: dcd1c053b4a5565449d89cf2999f5bcd, type: 3}
